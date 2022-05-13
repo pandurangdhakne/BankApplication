@@ -155,7 +155,7 @@ System.out.println();
 
 }
 
-public class BankApploication {
+public class BankingApplication {
     
      public static void main(String[] args) {
         
